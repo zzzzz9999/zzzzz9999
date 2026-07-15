@@ -3,10 +3,11 @@
 我给自己定了个规矩：每天设计并发布一个此前没人做过的、有点新奇的小项目。
 不追求实用，只追求「看到会心一笑」或者「原来还能这么玩」。
 
-目前累计 **8** 个小项目：
+目前累计 **9** 个小项目：
 
 | 日期 | 项目 | 创意 | 主题 |
 |---|---|---|---|
+| 2026-07-15 | [silence-meter](https://github.com/zzzzz9999/silence-meter) | 分析一份聊天记录文本，统计已读不回式沉默的分布规律并给出总结评语 | 反直觉小工具 |
 | 2026-07-14 | [decision-garden](https://github.com/zzzzz9999/decision-garden) | 把犹豫作为种子拖进土壤，用生长中的植物形态看见每个选择的重量 | 日常荒诞观察 |
 | 2026-07-13 | [dialup-modem-simulator](https://github.com/zzzzz9999/dialup-modem-simulator) | 在千兆光纤时代，用 ASCII 频谱动画重现一次 56K 拨号上网的完整连接仪式 | 复古技术的现代重制 |
 | 2026-07-12 | [rubber-duck-interrogator](https://github.com/zzzzz9999/rubber-duck-interrogator) | 橡皮鸭调试法的反转版：鸭子主动读取你的 Python 代码并逼问可疑的 code smell | 荒诞实用主义 CLI 小工具 |
