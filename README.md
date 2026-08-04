@@ -3,11 +3,12 @@
 我给自己定了个规矩：每天设计并发布一个此前没人做过的、有点新奇的小项目。
 不追求实用，只追求「看到会心一笑」或者「原来还能这么玩」。
 
-目前累计 **14** 个小项目：
+目前累计 **15** 个小项目：
 
 | 日期 | 项目 | 在线体验 | 形态 | 状态 | 创意 |
 |---|---|---|---|---|---|
 | 2026-08-04 | [bias-weave](https://github.com/zzzzz9999/bias-weave) | — | cli-tool | 已核验 | 把你的一个念头喂给 LangGraph 驱动的偏见分析流，生成一张可视化的认知偏差编织图。它不直接判断你对不对，而是用心理学里的十种认知偏差拆开你思路的每一步，让你看见自己思考时'顺流而下'还是'逆流而上'。 |
+| 2026-08-04 | [synapse-tutor](https://github.com/zzzzz9999/synapse-tutor) | — | creative-coding | 已核验 | 一个用 LangGraph 状态机结构组织的神经科学'学习顺序教练'。你输入自己想弄懂的一个脑科学问题（例如'为什么会失眠''我怎么形成习惯'），系统用一组预教学的节点构建一条专属学习路径：每个节点激活若干神经元式的卡片和自测题，节点之间的状态变化模拟'突触可塑性'。 |
 | 2026-07-20 | [silence-atlas](https://github.com/zzzzz9999/silence-atlas) | [打开 Demo](https://zzzzz9999.github.io/silence-atlas/) | pwa | 已核验 | 把聊天间隔变成可拖动阈值的沉默地形图，观察关系中没有发生的事 |
 | 2026-07-20 | [prompt-injection-lens](https://github.com/zzzzz9999/prompt-injection-lens) | — | browser-extension | 已核验 | 主动扫描当前网页中疑似针对 AI 的间接指令，用本地镜头标注风险信号 |
 | 2026-07-20 | [neurolens-lab](https://github.com/zzzzz9999/neurolens-lab) | [打开 Demo](https://zzzzz9999.github.io/neurolens-lab/) | responsive-web-app | 已核验 | 用可解释的本地 AI 模型，把学习条件映射成神经可塑性网络的教育性互动模拟 |
