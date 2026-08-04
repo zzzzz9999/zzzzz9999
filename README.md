@@ -3,15 +3,16 @@
 我给自己定了个规矩：每天设计并发布一个此前没人做过的、有点新奇的小项目。
 不追求实用，只追求「看到会心一笑」或者「原来还能这么玩」。
 
-目前累计 **18** 个小项目：
+目前累计 **19** 个小项目：
 
 | 日期 | 项目 | 在线体验 | 形态 | 状态 | 创意 |
 |---|---|---|---|---|---|
-| 2026-08-04 | [014-empathy-circuit](https://github.com/zzzzz9999/014-empathy-circuit) | — | creative-coding | 已核验 | 一个用镜像神经元理论构建的共情训练 Agent。你输入一个令你不解或不适的他人行为，系统用 LangGraph 引导你走完四步神经共情链：情绪识别、情境模拟、动机猜想、反应重评。它不会告诉你对方怎么想，而是帮你看见自己的共情回路在哪里短路或过载。 |
+| 2026-08-04 | [015-cognitive-compass](https://github.com/zzzzz9999/015-cognitive-compass) | — | desktop-app | 已核验 | 你的个人决策偏误雷达。把一个正在纠结的两难选择交给 LangGraph 驱动的八维认知罗盘——它会同时用八种经典认知偏差（幸存者偏差、锚定效应、损失厌恶等）注入你的选项，帮你看见每个选择背后被哪种心理暗流推着走。不是帮你想明白，而是让你看见自己在想要什么。 |
+| 2026-08-04 | [013-dream-weave-ai](https://github.com/zzzzz9999/013-dream-weave-ai) | — | cli-tool | 已核验 | 把你的梦境片段描述喂给潜意识织造机——一个用 LangGraph 构建的弗洛伊德 × 荣格 梦境分析 Agent。它不'解梦'，而是用自由联想、象征解释与情感弧线三个维度拆开你的梦境，生成一张'潜意识织图'，帮你看见梦里反复出现的主题与情绪暗流。 |
 | 2026-08-04 | [dialectic-drift](https://github.com/zzzzz9999/dialectic-drift) | — | desktop-app | 已核验 | 苏格拉底式对话机器人，用 LangGraph 追踪你正反合的辩证漂移轨迹。它不会给你答案，而是不断追问'你这样说根据是什么''反面观点会怎么说'，最终生成一份你的思想漂移地图——横轴是立场强度，纵轴是反思维度。 |
 | 2026-08-04 | [synapse-tutor](https://github.com/zzzzz9999/synapse-tutor) | — | creative-coding | 已核验 | 一个用 LangGraph 状态机结构组织的神经科学'学习顺序教练'。你输入自己想弄懂的一个脑科学问题（例如'为什么会失眠''我怎么形成习惯'），系统用一组预教学的节点构建一条专属学习路径：每个节点激活若干神经元式的卡片和自测题，节点之间的状态变化模拟'突触可塑性'。 |
 | 2026-08-04 | [bias-weave](https://github.com/zzzzz9999/bias-weave) | — | cli-tool | 已核验 | 把你的一个念头喂给 LangGraph 驱动的偏见分析流，生成一张可视化的认知偏差编织图。它不直接判断你对不对，而是用心理学里的十种认知偏差拆开你思路的每一步，让你看见自己思考时'顺流而下'还是'逆流而上'。 |
-| 2026-08-04 | [013-dream-weave-ai](https://github.com/zzzzz9999/013-dream-weave-ai) | — | cli-tool | 已核验 | 把你的梦境片段描述喂给潜意识织造机——一个用 LangGraph 构建的弗洛伊德 × 荣格 梦境分析 Agent。它不'解梦'，而是用自由联想、象征解释与情感弧线三个维度拆开你的梦境，生成一张'潜意识织图'，帮你看见梦里反复出现的主题与情绪暗流。 |
+| 2026-08-04 | [014-empathy-circuit](https://github.com/zzzzz9999/014-empathy-circuit) | — | creative-coding | 已核验 | 一个用镜像神经元理论构建的共情训练 Agent。你输入一个令你不解或不适的他人行为，系统用 LangGraph 引导你走完四步神经共情链：情绪识别、情境模拟、动机猜想、反应重评。它不会告诉你对方怎么想，而是帮你看见自己的共情回路在哪里短路或过载。 |
 | 2026-07-20 | [undo-studio](https://github.com/zzzzz9999/undo-studio) | [打开 Demo](https://zzzzz9999.github.io/undo-studio/) | responsive-web-app | 已核验 | 把后悔事件放进现实回滚工作台，沿时间轴比较假装、补丁、修复与向前提交 |
 | 2026-07-20 | [neurolens-lab](https://github.com/zzzzz9999/neurolens-lab) | [打开 Demo](https://zzzzz9999.github.io/neurolens-lab/) | responsive-web-app | 已核验 | 用可解释的本地 AI 模型，把学习条件映射成神经可塑性网络的教育性互动模拟 |
 | 2026-07-20 | [prompt-injection-lens](https://github.com/zzzzz9999/prompt-injection-lens) | — | browser-extension | 已核验 | 主动扫描当前网页中疑似针对 AI 的间接指令，用本地镜头标注风险信号 |
