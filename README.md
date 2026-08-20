@@ -3,12 +3,13 @@
 我给自己定了个规矩：每天设计并发布一个此前没人做过的、有点新奇的小项目。
 不追求实用，只追求「看到会心一笑」或者「原来还能这么玩」。
 
-目前累计 **21** 个小项目：
+目前累计 **22** 个小项目：
 
 | 日期 | 项目 | 在线体验 | 形态 | 状态 | 创意 |
 |---|---|---|---|---|---|
-| 2026-08-18 | [procrastination-physics](https://github.com/zzzzz9999/procrastination-physics) | — | cli-tool | 已核验 | 用物理学静摩擦力和启动冲量的比喻，计算你需要多大外力才能克服拖延的启动阻力 |
+| 2026-08-20 | [typo-fossil-record](https://github.com/zzzzz9999/typo-fossil-record) | — | cli-tool | 已核验 | 把代码仓库里的拼写错误当作古生物化石来发掘，按化石类型和出土地点统计，生成一份诙谐的化石发掘报告 |
 | 2026-08-18 | [attention-afterimage](https://github.com/zzzzz9999/attention-afterimage) | [打开 Demo](https://zzzzz9999.github.io/attention-afterimage/) | responsive-web-app | 已核验 | 把一天的任务切换记录变成一张残影可视化图，直观看见哪次打断让你的注意力拖了最久的后腿 |
+| 2026-08-18 | [procrastination-physics](https://github.com/zzzzz9999/procrastination-physics) | — | cli-tool | 已核验 | 用物理学静摩擦力和启动冲量的比喻，计算你需要多大外力才能克服拖延的启动阻力 |
 | 2026-08-04 | [015-cognitive-compass](https://github.com/zzzzz9999/015-cognitive-compass) | — | desktop-app | 已核验 | 你的个人决策偏误雷达。把一个正在纠结的两难选择交给 LangGraph 驱动的八维认知罗盘——它会同时用八种经典认知偏差（幸存者偏差、锚定效应、损失厌恶等）注入你的选项，帮你看见每个选择背后被哪种心理暗流推着走。不是帮你想明白，而是让你看见自己在想要什么。 |
 | 2026-08-04 | [014-empathy-circuit](https://github.com/zzzzz9999/014-empathy-circuit) | — | creative-coding | 已核验 | 一个用镜像神经元理论构建的共情训练 Agent。你输入一个令你不解或不适的他人行为，系统用 LangGraph 引导你走完四步神经共情链：情绪识别、情境模拟、动机猜想、反应重评。它不会告诉你对方怎么想，而是帮你看见自己的共情回路在哪里短路或过载。 |
 | 2026-08-04 | [013-dream-weave-ai](https://github.com/zzzzz9999/013-dream-weave-ai) | — | cli-tool | 已核验 | 把你的梦境片段描述喂给潜意识织造机——一个用 LangGraph 构建的弗洛伊德 × 荣格 梦境分析 Agent。它不'解梦'，而是用自由联想、象征解释与情感弧线三个维度拆开你的梦境，生成一张'潜意识织图'，帮你看见梦里反复出现的主题与情绪暗流。 |
